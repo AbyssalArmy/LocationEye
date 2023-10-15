@@ -17,15 +17,15 @@
 
 ### Step 1
 To set up LocationEye, you'll require two APK files:
-- <strong>LocationEye App:</strong> [Download LocationEye](https://github.com)
-- <strong>Apk editor:</strong> [Download Apk editor](https://github.com)
+- <strong>LocationEye App:</strong> [Download LocationEye](https://github.com/AbyssalArmy/LocationEye/releases/download/1.0.0/LocationEye.apk)
+- <strong>Apk editor:</strong> [Download Apk editor from AbyssalArmy Telegram channel](https://t.me/AbyssalArmy)
 
 ### Step 2
 Obtain your Telegram bot token and your numeric Telegram id.
 
 <strong>Create a Telegram bot:</strong>
 
-Open BotFather on your telegram acccount: [Open BotFather](https://github.com)
+Open BotFather on your telegram acccount: [Open BotFather](https://t.me/BotFather)
 
 Start BotFather and send <strong>/newbot</strong> commend and then BotFather will ask you to enter a name and a username for your bot.
 
@@ -40,7 +40,7 @@ After that BotFather will create your bot, copy and save your bot token and clic
 
 To obtain your teleram account numeric id you need to start @userinfobot Teleram bot
 
-[Click here to start userinfobot Telegram bot](https://github.com)
+[Click here to start userinfobot Telegram bot](https://t.me/userinfobot)
 
 After starting this bot, the bot will send you your numeric telegram id
 

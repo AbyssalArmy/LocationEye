@@ -32,8 +32,8 @@ Start BotFather and send <strong>/newbot</strong> commend and then BotFather wil
 After that BotFather will create your bot, copy and save your bot token and click on your bot username and start it.
 
 <p float="left">
-  <img src="/image/prv1.png" width="20%" />
-  <img src="/image/prv2.png" width="20%" />
+  <img src="/images/prv1.png" width="20%" />
+  <img src="/images/prv2.png" width="20%" />
 </p>
 
 ### Step 3

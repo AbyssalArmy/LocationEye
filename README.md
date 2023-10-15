@@ -21,7 +21,7 @@ To set up LocationEye, you'll require two APK files:
 - <strong>Apk editor:</strong> [Download Apk editor](https://github.com)
 
 ### Step 2
-Obtain your Telegram bot token and your numric Telegram id.
+Obtain your Telegram bot token and your numeric Telegram id.
 
 <strong>Create a Telegram bot:</strong>
 
@@ -34,6 +34,18 @@ After that BotFather will create your bot, copy and save your bot token and clic
 <p float="left">
   <img src="/images/prv1.png" width="20%" />
   <img src="/images/prv2.png" width="20%" />
+</p>
+
+<strong>Obtain your numeric id:</strong>
+
+To obtain your teleram account numeric id you need to start @userinfobot Teleram bot
+
+[Click here to start userinfobot Telegram bot](https://github.com)
+
+After starting this bot, the bot will send you your numeric telegram id
+
+<p float="left">
+  <img src="/images/prv3.png" width="20%" />
 </p>
 
 ### Step 3

@@ -83,7 +83,7 @@ In the assets folder you will see 3 files
 
 <strong>MAKE SURE THAT YOU SAVED TEXT FILES AFTER EDITING!</strong>
 
-## Step 4 
+### Step 4 
 After doing all above steps click on <strong>Smali button</strong> at the top right of screen
 
 After clicking on Smali button, click on <strong>Build button and build</strong> the app
@@ -94,6 +94,6 @@ After clicking on Smali button, click on <strong>Build button and build</strong>
   <img src="/images/prv16.png" width="20%" />
 </p>
 
-### Enjoy!
+#### Enjoy!
 
 

@@ -96,4 +96,7 @@ After clicking on Smali button, click on <strong>Build button and build</strong>
 
 #### Enjoy!
 
+## Fallow us on social media
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmy)
+
 

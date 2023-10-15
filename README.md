@@ -20,5 +20,25 @@ To set up LocationEye, you'll require two APK files:
 - <strong>LocationEye App:</strong> [Download LocationEye](https://github.com)
 - <strong>Apk editor:</strong> [Download Apk editor](https://github.com)
 
+### Step 2
+Obtain your Telegram bot token and your numric Telegram id.
+
+<strong>Create a Telegram bot:</strong>
+
+Open BotFather on your telegram acccount: [Open BotFather](https://github.com)
+
+Start BotFather and send <strong>/newbot</strong> commend and then BotFather will ask you to enter a name and a username for your bot.
+
+After that BotFather will create your bot, copy and save your bot token and click on your bot username and start it.
+
+<p float="left">
+  <img src="/image/prv1.png" width="20%" />
+  <img src="/image/prv2.png" width="20%" />
+</p>
+
+### Step 3
+Install Apk editor and open it then selcet <strong>Apk file</strong> and select <strong>LocationEye Apk file</strong> that you installed on <strong>step 1</strong>
+
+
 
 

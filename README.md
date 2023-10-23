@@ -1,4 +1,4 @@
-<div align="center">
+="center">
     <img src="/images/icon.png" width="30%" />
     <h1><strong>LocationEye</strong></h1>
     <h3>Powerful Android malware designed to track device's location</h3>
